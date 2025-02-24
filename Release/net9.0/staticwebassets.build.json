@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "02T0m3d6gnvNS9CXrIF0scBarT2y01SRNcJQcLyKjr0=",
+  "Source": "WebApi_Emissor_Senha",
+  "BasePath": "_content/WebApi_Emissor_Senha",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

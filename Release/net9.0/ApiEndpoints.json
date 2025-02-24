@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "WebApi_Emissor_Senha.Controllers.SenhaController",
+    "Method": "CancelarSenha",
+    "RelativePath": "Senha/cancelar/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Emissor_Senha.Controllers.SenhaController",
+    "Method": "EmitirSenha",
+    "RelativePath": "Senha/emitir",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Emissor_Senha.Controllers.SenhaController",
+    "Method": "FinalizarSenha",
+    "RelativePath": "Senha/finalizar/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Emissor_Senha.Controllers.SenhaController",
+    "Method": "ListarSenhas",
+    "RelativePath": "Senha/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
