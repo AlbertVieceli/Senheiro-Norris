@@ -1,0 +1,333 @@
+2025-02-23 18:25:04.784 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 18:25:04.812 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 18:25:04.853 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 18:25:04.854 -03:00 [INF] Hosting environment: Development
+2025-02-23 18:25:04.855 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 18:25:37.735 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7279/ - null null
+2025-02-23 18:25:37.874 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7279/ - 404 0 null 145.0097ms
+2025-02-23 18:25:37.884 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7279/, Response status code: 404
+2025-02-23 18:25:58.258 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5097/ - null null
+2025-02-23 18:25:58.305 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5097/ - 404 0 null 46.4927ms
+2025-02-23 18:25:58.309 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5097/, Response status code: 404
+2025-02-23 18:27:39.384 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7279/openapi/v1.json - null null
+2025-02-23 18:27:39.393 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7279/openapi/v1.json - 404 0 null 8.869ms
+2025-02-23 18:27:39.396 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7279/openapi/v1.json, Response status code: 404
+2025-02-23 18:34:00.349 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 18:34:00.382 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 18:34:00.426 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 18:34:00.427 -03:00 [INF] Hosting environment: Development
+2025-02-23 18:34:00.429 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 18:35:24.752 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 18:35:24.792 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 18:35:24.862 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 18:35:24.864 -03:00 [INF] Hosting environment: Development
+2025-02-23 18:35:24.865 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 18:36:41.947 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7279/emitir - null null
+2025-02-23 18:36:42.053 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7279/emitir - 404 0 null 112.07ms
+2025-02-23 18:36:42.065 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7279/emitir, Response status code: 404
+2025-02-23 18:39:37.028 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 18:39:37.061 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 18:39:37.105 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 18:39:37.106 -03:00 [INF] Hosting environment: Development
+2025-02-23 18:39:37.107 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 18:42:23.205 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 18:42:23.235 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 18:42:23.276 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 18:42:23.277 -03:00 [INF] Hosting environment: Development
+2025-02-23 18:42:23.279 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 18:42:57.034 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7279/senha/emitir - null null
+2025-02-23 18:42:57.145 -03:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-02-23 18:42:57.147 -03:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-02-23 18:42:57.151 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7279/senha/emitir - 405 0 null 121.7131ms
+2025-02-23 18:43:02.742 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7279/senha/emitir - null null
+2025-02-23 18:43:02.750 -03:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-02-23 18:43:02.751 -03:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-02-23 18:43:02.753 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7279/senha/emitir - 405 0 null 11.2833ms
+2025-02-23 18:43:28.162 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5097/senha/emitir - null null
+2025-02-23 18:43:28.167 -03:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-02-23 18:43:28.169 -03:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-02-23 18:43:28.170 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5097/senha/emitir - 405 0 null 8.5262ms
+2025-02-23 18:52:15.976 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 18:52:16.012 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 18:52:16.083 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 18:52:16.085 -03:00 [INF] Hosting environment: Development
+2025-02-23 18:52:16.086 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 18:58:12.478 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 18:58:12.514 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 18:58:12.556 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 19:05:54.826 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 19:05:54.860 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 19:05:54.902 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 19:05:54.904 -03:00 [INF] Hosting environment: Development
+2025-02-23 19:05:54.905 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 19:06:13.810 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 19:06:13.844 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 19:06:13.867 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 19:08:04.697 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 19:08:04.737 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 19:08:04.783 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 19:08:04.785 -03:00 [INF] Hosting environment: Development
+2025-02-23 19:08:04.787 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 19:08:07.332 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 19:08:07.366 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 19:08:07.391 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 19:08:08.366 -03:00 [INF] Senha emitida: 9d67e6de-9500-43b9-957e-0486c4caecb4
+2025-02-23 19:08:08.373 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 19:08:08.392 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 996.4425ms
+2025-02-23 19:08:08.397 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 19:08:08.402 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 1073.8906ms
+2025-02-23 19:08:21.311 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 19:08:21.315 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 19:08:21.316 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 19:08:22.215 -03:00 [INF] Senha emitida: dea309de-946d-40de-9043-7950594a5bad
+2025-02-23 19:08:22.216 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 19:08:22.218 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 899.731ms
+2025-02-23 19:08:22.220 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 19:08:22.221 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 910.3752ms
+2025-02-23 19:08:32.881 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 19:08:32.885 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 19:08:32.886 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 19:08:33.924 -03:00 [INF] Senha emitida: 48e6af75-f36b-474b-ba5c-82e2a46b0b32
+2025-02-23 19:08:33.925 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 19:08:33.928 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 1038.7571ms
+2025-02-23 19:08:33.930 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 19:08:33.932 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 1051.673ms
+2025-02-23 19:08:50.595 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/listar - null 0
+2025-02-23 19:08:50.599 -03:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-02-23 19:08:50.601 -03:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-02-23 19:08:50.602 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/listar - 405 0 null 7.0186ms
+2025-02-23 19:08:54.326 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7279/senha/listar - null null
+2025-02-23 19:08:54.330 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 19:08:54.335 -03:00 [INF] Route matched with {action = "ListarSenhas", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ListarSenhas() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 19:08:54.343 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApi_Emissor_Senha.Senha, WebApi_Emissor_Senha, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-23 19:08:54.345 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha) in 3.0438ms
+2025-02-23 19:08:54.347 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 19:08:54.348 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7279/senha/listar - 200 null application/json; charset=utf-8 22.6961ms
+2025-02-23 19:27:50.425 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7279/senha/listar - null null
+2025-02-23 19:27:50.429 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 19:27:50.431 -03:00 [INF] Route matched with {action = "ListarSenhas", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ListarSenhas() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 19:27:50.434 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApi_Emissor_Senha.Senha, WebApi_Emissor_Senha, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-23 19:27:50.436 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha) in 1.9769ms
+2025-02-23 19:27:50.438 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 19:27:50.439 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7279/senha/listar - 200 null application/json; charset=utf-8 16.0959ms
+2025-02-23 19:28:45.279 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/finalizar/2 - null 0
+2025-02-23 19:28:45.282 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.FinalizarSenha (WebApi_Emissor_Senha)'
+2025-02-23 19:28:45.293 -03:00 [INF] Route matched with {action = "FinalizarSenha", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult FinalizarSenha(Int32) on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 19:28:45.307 -03:00 [INF] Senha finalizada: dea309de-946d-40de-9043-7950594a5bad
+2025-02-23 19:28:45.308 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 19:28:45.311 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.FinalizarSenha (WebApi_Emissor_Senha) in 12.9123ms
+2025-02-23 19:28:45.314 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.FinalizarSenha (WebApi_Emissor_Senha)'
+2025-02-23 19:28:45.315 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/finalizar/2 - 200 null application/json; charset=utf-8 36.4314ms
+2025-02-23 19:39:04.898 -03:00 [INF] Senha cancelada automaticamente: 9d67e6de-9500-43b9-957e-0486c4caecb4
+2025-02-23 19:39:04.900 -03:00 [INF] Senha cancelada automaticamente: 48e6af75-f36b-474b-ba5c-82e2a46b0b32
+2025-02-23 19:53:59.409 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/listar - null 0
+2025-02-23 19:53:59.412 -03:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-02-23 19:53:59.413 -03:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-02-23 19:53:59.415 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/listar - 405 0 null 5.3735ms
+2025-02-23 19:54:20.082 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7279/senha/listar - null null
+2025-02-23 19:54:20.086 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 19:54:20.088 -03:00 [INF] Route matched with {action = "ListarSenhas", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ListarSenhas() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 19:54:20.090 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApi_Emissor_Senha.Senha, WebApi_Emissor_Senha, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-23 19:54:20.093 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha) in 2.3132ms
+2025-02-23 19:54:20.095 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 19:54:20.096 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7279/senha/listar - 200 null application/json; charset=utf-8 36.5853ms
+2025-02-23 20:38:33.951 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 20:38:33.984 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 20:38:34.023 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 20:38:34.025 -03:00 [INF] Hosting environment: Development
+2025-02-23 20:38:34.026 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 21:03:22.256 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 21:03:22.292 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 21:03:22.335 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 21:03:22.336 -03:00 [INF] Hosting environment: Development
+2025-02-23 21:03:22.337 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 21:03:34.156 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 21:03:34.193 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 21:03:34.217 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 21:03:35.857 -03:00 [INF] Senha emitida: 7c7231b6-5310-4314-88bf-eb8fcb93f5aa
+2025-02-23 21:03:35.863 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 21:03:35.885 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 1663.2396ms
+2025-02-23 21:03:35.890 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 21:03:35.894 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 1743.7076ms
+2025-02-23 21:03:37.398 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 21:03:37.402 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 21:03:37.404 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 21:03:38.280 -03:00 [INF] Senha emitida: 06c29d58-71dd-4ac1-ba75-21560f94d295
+2025-02-23 21:03:38.282 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 21:03:38.283 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 877.3464ms
+2025-02-23 21:03:38.285 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 21:03:38.286 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 888.2461ms
+2025-02-23 21:03:40.342 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 21:03:40.347 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 21:03:40.348 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 21:03:41.232 -03:00 [INF] Senha emitida: bcd66d24-da48-4fba-bdf6-31ccad7349bd
+2025-02-23 21:03:41.233 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 21:03:41.235 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 882.9778ms
+2025-02-23 21:03:41.237 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 21:03:41.239 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 896.8943ms
+2025-02-23 21:03:49.857 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7279/senha/listar - null null
+2025-02-23 21:03:49.861 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 21:03:49.864 -03:00 [INF] Route matched with {action = "ListarSenhas", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ListarSenhas() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 21:03:49.866 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApi_Emissor_Senha.Senha, WebApi_Emissor_Senha, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-23 21:03:49.868 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha) in 2.2781ms
+2025-02-23 21:03:49.870 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 21:03:49.871 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7279/senha/listar - 200 null application/json; charset=utf-8 14.2818ms
+2025-02-23 21:07:59.505 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 21:07:59.535 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 21:07:59.575 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 21:07:59.576 -03:00 [INF] Hosting environment: Development
+2025-02-23 21:07:59.578 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 21:08:07.304 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7279/senha/listar - null null
+2025-02-23 21:08:07.341 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 21:08:07.361 -03:00 [INF] Route matched with {action = "ListarSenhas", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ListarSenhas() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 21:08:07.370 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApi_Emissor_Senha.Senha, WebApi_Emissor_Senha, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-23 21:08:07.388 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha) in 21.6277ms
+2025-02-23 21:08:07.393 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 21:08:07.396 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7279/senha/listar - 200 null application/json; charset=utf-8 96.4815ms
+2025-02-23 21:08:30.416 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 21:08:30.422 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 21:08:30.428 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 21:08:31.530 -03:00 [INF] Senha emitida: 8fe959c8-70d6-4695-b632-1c6c7bdf9e2d
+2025-02-23 21:08:31.533 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 21:08:31.538 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 1106.8111ms
+2025-02-23 21:08:31.541 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 21:08:31.544 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 1127.7657ms
+2025-02-23 21:08:32.856 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 21:08:32.860 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 21:08:32.862 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 21:08:33.959 -03:00 [INF] Senha emitida: 5d5bb844-5a13-42f8-9ad4-b1e8bb7e6abb
+2025-02-23 21:08:33.961 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 21:08:33.963 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 1097.265ms
+2025-02-23 21:08:33.964 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 21:08:33.966 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 1109.6526ms
+2025-02-23 21:08:47.483 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/finalizar/2 - null 0
+2025-02-23 21:08:47.487 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.FinalizarSenha (WebApi_Emissor_Senha)'
+2025-02-23 21:08:47.493 -03:00 [INF] Route matched with {action = "FinalizarSenha", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult FinalizarSenha(Int32) on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 21:08:47.503 -03:00 [INF] Senha finalizada: 5d5bb844-5a13-42f8-9ad4-b1e8bb7e6abb
+2025-02-23 21:08:47.504 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 21:08:47.506 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.FinalizarSenha (WebApi_Emissor_Senha) in 9.5366ms
+2025-02-23 21:08:47.508 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.FinalizarSenha (WebApi_Emissor_Senha)'
+2025-02-23 21:08:47.509 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/finalizar/2 - 200 null application/json; charset=utf-8 25.7832ms
+2025-02-23 21:32:07.981 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 21:32:08.010 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 21:32:08.048 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 21:32:08.049 -03:00 [INF] Hosting environment: Development
+2025-02-23 21:32:08.050 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 22:01:53.415 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 22:01:53.448 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 22:01:53.522 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 22:01:53.525 -03:00 [INF] Hosting environment: Development
+2025-02-23 22:01:53.527 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
+2025-02-23 22:03:19.025 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 22:03:19.063 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:03:19.085 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:03:20.202 -03:00 [INF] Senha emitida: 636bf43a-8e57-46dd-bc45-6c67b07de0a6
+2025-02-23 22:03:20.210 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 22:03:20.232 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 1140.7202ms
+2025-02-23 22:03:20.237 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:03:20.241 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 1220.0581ms
+2025-02-23 22:03:22.425 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 22:03:22.430 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:03:22.431 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:03:23.431 -03:00 [INF] Senha emitida: b19babc9-4b3b-45b6-bbb2-825a4f8adb05
+2025-02-23 22:03:23.433 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 22:03:23.436 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 1003.04ms
+2025-02-23 22:03:23.437 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:03:23.438 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 1013.8121ms
+2025-02-23 22:03:25.966 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 22:03:25.970 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:03:25.972 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:03:26.886 -03:00 [INF] Senha emitida: 74f08195-1c8a-469b-b2cb-3008a4417ffb
+2025-02-23 22:03:26.887 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 22:03:26.889 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 913.3578ms
+2025-02-23 22:03:26.891 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:03:26.893 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 926.8507ms
+2025-02-23 22:03:31.384 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 22:03:31.388 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:03:31.389 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:03:32.319 -03:00 [INF] Senha emitida: 48897308-cfc2-49e9-96c4-7ac85b4ebdc2
+2025-02-23 22:03:32.320 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 22:03:32.322 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 928.6916ms
+2025-02-23 22:03:32.324 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:03:32.326 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 941.9031ms
+2025-02-23 22:03:34.943 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/emitir - null 0
+2025-02-23 22:03:34.946 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:03:34.948 -03:00 [INF] Route matched with {action = "EmitirSenha", controller = "Senha"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmitirSenha() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:03:35.861 -03:00 [INF] Senha emitida: 3a55becd-1dff-41ae-9ad3-7afd416ba688
+2025-02-23 22:03:35.862 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 22:03:35.864 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha) in 910.1653ms
+2025-02-23 22:03:35.866 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.EmitirSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:03:35.868 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/emitir - 200 null application/json; charset=utf-8 924.4035ms
+2025-02-23 22:05:44.767 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7279/senha/listar - null null
+2025-02-23 22:05:44.770 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 22:05:44.773 -03:00 [INF] Route matched with {action = "ListarSenhas", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ListarSenhas() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:05:44.776 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApi_Emissor_Senha.Senha, WebApi_Emissor_Senha, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-23 22:05:44.778 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha) in 2.4524ms
+2025-02-23 22:05:44.780 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 22:05:44.782 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7279/senha/listar - 200 null application/json; charset=utf-8 15.3698ms
+2025-02-23 22:06:28.010 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/finalizar/1 - null 0
+2025-02-23 22:06:28.014 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.FinalizarSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:06:28.022 -03:00 [INF] Route matched with {action = "FinalizarSenha", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult FinalizarSenha(Int32) on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:06:28.034 -03:00 [INF] Senha finalizada: 636bf43a-8e57-46dd-bc45-6c67b07de0a6
+2025-02-23 22:06:28.034 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 22:06:28.037 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.FinalizarSenha (WebApi_Emissor_Senha) in 9.5249ms
+2025-02-23 22:06:28.040 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.FinalizarSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:06:28.042 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/finalizar/1 - 200 null application/json; charset=utf-8 32.8887ms
+2025-02-23 22:07:14.498 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/cancelar/2 - null 0
+2025-02-23 22:07:14.501 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.CancelarSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:07:14.504 -03:00 [INF] Route matched with {action = "CancelarSenha", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CancelarSenha(Int32) on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:07:14.508 -03:00 [INF] Senha Cancelada manualmente : b19babc9-4b3b-45b6-bbb2-825a4f8adb05
+2025-02-23 22:07:14.509 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 22:07:14.510 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.CancelarSenha (WebApi_Emissor_Senha) in 3.6163ms
+2025-02-23 22:07:14.513 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.CancelarSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:07:14.514 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/cancelar/2 - 200 null application/json; charset=utf-8 18.6025ms
+2025-02-23 22:07:42.228 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7279/senha/listar - null null
+2025-02-23 22:07:42.232 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 22:07:42.234 -03:00 [INF] Route matched with {action = "ListarSenhas", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ListarSenhas() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:07:42.239 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApi_Emissor_Senha.Senha, WebApi_Emissor_Senha, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-23 22:07:42.243 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha) in 3.4395ms
+2025-02-23 22:07:42.245 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 22:07:42.247 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7279/senha/listar - 200 null application/json; charset=utf-8 18.6752ms
+2025-02-23 22:08:22.864 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/cancelar/1 - null 0
+2025-02-23 22:08:22.868 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.CancelarSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:08:22.870 -03:00 [INF] Route matched with {action = "CancelarSenha", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CancelarSenha(Int32) on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:08:22.873 -03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-02-23 22:08:22.888 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.CancelarSenha (WebApi_Emissor_Senha) in 15.724ms
+2025-02-23 22:08:22.891 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.CancelarSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:08:22.893 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/cancelar/1 - 404 null application/problem+json; charset=utf-8 54.1728ms
+2025-02-23 22:08:30.042 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/cancelar/2 - null 0
+2025-02-23 22:08:30.046 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.CancelarSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:08:30.047 -03:00 [INF] Route matched with {action = "CancelarSenha", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CancelarSenha(Int32) on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:08:30.051 -03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-02-23 22:08:30.052 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.CancelarSenha (WebApi_Emissor_Senha) in 1.7939ms
+2025-02-23 22:08:30.054 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.CancelarSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:08:30.056 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/cancelar/2 - 404 null application/problem+json; charset=utf-8 13.6778ms
+2025-02-23 22:08:39.987 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7279/senha/cancelar/3 - null 0
+2025-02-23 22:08:39.991 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.CancelarSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:08:39.993 -03:00 [INF] Route matched with {action = "CancelarSenha", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CancelarSenha(Int32) on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:08:39.996 -03:00 [INF] Senha Cancelada manualmente : 74f08195-1c8a-469b-b2cb-3008a4417ffb
+2025-02-23 22:08:39.997 -03:00 [INF] Executing OkObjectResult, writing value of type 'WebApi_Emissor_Senha.Senha'.
+2025-02-23 22:08:39.998 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.CancelarSenha (WebApi_Emissor_Senha) in 2.5106ms
+2025-02-23 22:08:40.000 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.CancelarSenha (WebApi_Emissor_Senha)'
+2025-02-23 22:08:40.005 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7279/senha/cancelar/3 - 200 null application/json; charset=utf-8 17.2995ms
+2025-02-23 22:08:51.039 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7279/senha/listar - null null
+2025-02-23 22:08:51.042 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 22:08:51.044 -03:00 [INF] Route matched with {action = "ListarSenhas", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ListarSenhas() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:08:51.047 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApi_Emissor_Senha.Senha, WebApi_Emissor_Senha, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-23 22:08:51.048 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha) in 1.8451ms
+2025-02-23 22:08:51.051 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 22:08:51.052 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7279/senha/listar - 200 null application/json; charset=utf-8 13.3364ms
+2025-02-23 22:08:53.348 -03:00 [INF] Senha cancelada automaticamente: 48897308-cfc2-49e9-96c4-7ac85b4ebdc2
+2025-02-23 22:08:53.349 -03:00 [INF] Senha cancelada automaticamente: 3a55becd-1dff-41ae-9ad3-7afd416ba688
+2025-02-23 22:13:46.939 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7279/senha/listar - null null
+2025-02-23 22:13:46.942 -03:00 [INF] Executing endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 22:13:46.944 -03:00 [INF] Route matched with {action = "ListarSenhas", controller = "Senha"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ListarSenhas() on controller WebApi_Emissor_Senha.Controllers.SenhaController (WebApi_Emissor_Senha).
+2025-02-23 22:13:46.948 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApi_Emissor_Senha.Senha, WebApi_Emissor_Senha, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-23 22:13:46.951 -03:00 [INF] Executed action WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha) in 3.586ms
+2025-02-23 22:13:46.954 -03:00 [INF] Executed endpoint 'WebApi_Emissor_Senha.Controllers.SenhaController.ListarSenhas (WebApi_Emissor_Senha)'
+2025-02-23 22:13:46.958 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7279/senha/listar - 200 null application/json; charset=utf-8 21.1997ms
+2025-02-23 22:30:42.594 -03:00 [INF] Now listening on: https://localhost:7279
+2025-02-23 22:30:42.628 -03:00 [INF] Now listening on: http://localhost:5097
+2025-02-23 22:30:42.662 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-23 22:30:42.664 -03:00 [INF] Hosting environment: Development
+2025-02-23 22:30:42.666 -03:00 [INF] Content root path: C:\Users\Albert\source\repos\WebApi_Emissor_Senha
